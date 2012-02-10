@@ -1,6 +1,10 @@
-subject: Selected topics on technology
-teacher: Le Quang Hieu
-team buiding: Tran Van Binh(crossthesea.k54ca)
-              Nguyen Van Thang()
-              Ngo Xuan Trinh()
-open-end topics: Android learning project
+*subject:* _Selected topics on technology_
+
+*teacher:* _Le Quang Hieu_
+
+*team buiding:* 
+                *_Tran Van Binh(crossthesea.k54ca)_
+                *_Nguyen Van Thang()_
+                *_Ngo Xuan Trinh()_
+
+*open-end topic:* _Android learning project_
