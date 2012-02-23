@@ -1,0 +1,13 @@
+*Name:* Assistant 
+*function:* 
+        help user can do some normal works but necessary such as:
+            * notes to do
+            * creating timetable and reminding you whenever you want
+            * collecting hot news daily
+            * some other functions if time permitting
+*Structure:*
+           * news
+           * sticky notes
+           * timetable
+           *.....
+enjoy!
