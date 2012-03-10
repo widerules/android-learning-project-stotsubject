@@ -1,0 +1,15 @@
+This module will have some functions:
+
+ +/ create a notes
+
+ +/ open a notes
+ 
+ +/ search a notes
+
+ +/ delete a notes
+
+ +/ send to email
+
+ +/ lock a notes(use password)
+ 
+ +/.....
