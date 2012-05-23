@@ -1,5 +1,8 @@
 #summary One-sentence summary of this page.
 
-= Module thứ 3 của nhóm: Timetable  =
+= Module thứ 3 của nhóm: Timetable_Version1_Released  =
 
 Download tại đây: http://www.mediafire.com/download.php?5tlvh929vqcaac5
+
+Do không có nhiều thời gian nên mình làm 1 Timetable đơn giản cho Học sinh(StudentTimetable). Version1 còn khá nhiều lỗi, sẽ cố gắng sửa và hoàn thiện trong thời gian sớm nhất.
+Thanks all!
