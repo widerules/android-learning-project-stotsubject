@@ -1,0 +1,8 @@
+# Module thứ 3 của nhóm: Timetable\_Version1\_Released #
+
+Download tại đây: http://www.mediafire.com/download.php?5tlvh929vqcaac5
+
+Link video youtube: http://www.youtube.com/watch?v=OJ6e11NFEOE&feature=youtu.be
+
+Do không có nhiều thời gian nên mình làm 1 Timetable đơn giản cho Học sinh(StudentTimetable). Version1 còn khá nhiều lỗi, sẽ cố gắng sửa và hoàn thiện trong thời gian sớm nhất.
+Thanks all!

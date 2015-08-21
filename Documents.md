@@ -1,0 +1,8 @@
+**Có một vài tài liệu, ebooks về môn này các bạn tham khảo nhé**
+
+  * Trang web của cô châu: http://coltech.vnu.edu.vn/~chauttm/es2012/
+  * _professional android application development_
+  * _adroid a progamer's guide
+  * ...._
+
+2 quyển ebook ở chỗ downloads nhé
